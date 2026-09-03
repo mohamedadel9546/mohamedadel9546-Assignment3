@@ -1,0 +1,29 @@
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.sourcelink.json
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+D:\Gourny .Net\Simulation\Asiments\Submission\mohamedadel9546-Assignment3\CSharpBasicsAssignment\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
